@@ -1,17 +1,12 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def cube_elements(numbers):
+def is_palindrome(lst):
     # Write your code here
     pass
 
 # Exercise 2
-def remove_duplicates(numbers):
-    # Write your code here
-    pass
-
-# Exercise 3
-def reverse_list(numbers):
+def is_strictly_ascending(lst):
     # Write your code here
     pass
 
