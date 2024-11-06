@@ -1,4 +1,4 @@
-# Python List
+# Python List 3
 
 Python List PDF:
 https://drive.google.com/file/d/1lKmQwkQc8rGIuH9OIQB-yM6lFg-lW9Ch/view?usp=sharing
@@ -10,7 +10,8 @@ https://drive.google.com/file/d/1lKmQwkQc8rGIuH9OIQB-yM6lFg-lW9Ch/view?usp=shari
 
 **Problem:**
 
-Turn every number of a list into its cube.
+**Palindrome Check**
+Write a function that checks if a list is a palindrome (reads the same forwards and backwards).
 
 **Example:**
 
@@ -30,7 +31,10 @@ Turn every number of a list into its cube.
 
 **Problem:**
 
-Remove duplicates from list and return new list.
+**Ascending list**
+Determine whether the sequence of items is strictly ascending so that each element is strictly larger (not just merely equal to) than the element that precedes it. 
+Return True if the elements in the list of items are strictly ascending, and return False otherwise.
+
 
 **Example**
 	
