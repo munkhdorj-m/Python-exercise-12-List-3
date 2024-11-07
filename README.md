@@ -49,7 +49,7 @@ Return True if the elements in the list of items are strictly ascending, and ret
 	Output: True
  
 	Input: [4, 5, 6, 7, 3, 7, 9] 
-	Output: True
+	Output: False
 
 	Input: [2, 3, 3, 4, 5] 
 	Output: False
